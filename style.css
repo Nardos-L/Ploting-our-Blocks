@@ -1,9 +1,9 @@
 .container{
     width: 950px;
     background-color: silver;
-    margin: 20px auto;
-    padding: 20px;
-    overflow: hidden;
+    margin: 0px auto;
+    padding: 20px 20px 0px 20px;
+    
 }
 .top-nav {
     height: 150px;
@@ -14,15 +14,19 @@
     width: 200px;
     background-color: blue;
     margin-top: 20px;
-    float: left;
+    
+    
 }
+
 .main {
     height: 400px;
     width: 700px;
     background-color: red;
-    float: right;
-    margin-top: 20px;
+    margin-top: -300px;
+    margin-left: 250px;
     
+    
+   
 }
 .sub-content {
     height: 200px;
@@ -37,3 +41,5 @@
     background-color: purple;
     margin-left: 10px;
 }
+
+
